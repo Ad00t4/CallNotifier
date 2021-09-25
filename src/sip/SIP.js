@@ -18,7 +18,7 @@ var UA;
 var sipClient;
 const sipLog = [];
 
-// Copy & Pastes
+// Copy & Pastes (misc)
 // 80IO73l6
 // core1-us-ca-sf.langineers.com - 64.124.219.184
 // core2-us-ca-sc.langineers.com - 64.74.129.251
