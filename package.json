@@ -3,7 +3,7 @@
   "productName": "CallNotifier",
   "version": "1.1.1",
   "description": "Cross-platform desktop SIP client application built on electron-react-boilerplate.",
-  "repository": "https://github.com/Ad00t/CallNotifier",
+  "repository": "https://github.com/Ad00t4/CallNotifier",
   "author": "LANgineers Inc.",
   "scripts": {
     "build": "concurrently \"yarn build:main\" \"yarn build:renderer\"",
